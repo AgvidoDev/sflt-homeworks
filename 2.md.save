@@ -1,12 +1,9 @@
-
 ### Задание 1
 - Запустите два simple python сервера на своей виртуальной машине на разных портах
 - Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-[haproxy.cfg](https://github.com/AgvidoDev/sflt-homeworks/blob/main/haproxy.cfg)
-![haproxy 1](https://github.com/AgvidoDev/sflt-homeworks/blob/main/haproxy1.jpg)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -15,8 +12,6 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 
-[haproxy_3_serv.cfg](https://github.com/AgvidoDev/sflt-homeworks/blob/main/haproxy_3_serv.cfg)
-![haproxy 2](https://github.com/AgvidoDev/sflt-homeworks/blob/main/haproxy2.jpg)
 
 ---
 
